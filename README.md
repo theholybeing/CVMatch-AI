@@ -72,7 +72,7 @@ CVMatch-AI/
 
 ```powershell
 # Clone the repository
-git clone https://github.com/your-username/CVMatch-AI.git
+git clone https://github.com/theholybeing/CVMatch-AI.git
 cd CVMatch-AI
 
 # Create and activate virtual environment
