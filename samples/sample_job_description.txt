@@ -1,0 +1,38 @@
+Position: Junior Python Backend Developer
+Company: CloudScale Dynamics
+Location: Austin, TX (Hybrid: 2 days in-office, 3 days remote)
+Employment Type: Full-Time
+
+About CloudScale Dynamics:
+CloudScale Dynamics builds intelligent SaaS infrastructure for modern enterprise teams. We are expanding our core backend engineering team and looking for a curious, motivated Junior Python Developer who is eager to build scalable web services, write clean code, and learn from experienced senior engineers.
+
+Role Overview:
+As a Junior Python Backend Developer, you will collaborate with cross-functional product and engineering teams to design, implement, and maintain high-performance RESTful APIs. You will work directly with our relational databases, write automated tests, participate in code reviews, and help scale our services.
+
+Key Responsibilities:
+- Design, build, and test RESTful microservices and backend endpoints using Python and modern web frameworks (Flask or FastAPI).
+- Implement performant database schemas, migrations, and queries using PostgreSQL and ORMs such as SQLAlchemy.
+- Write thorough unit and integration tests (pytest) to maintain code quality, reliability, and security standards.
+- Participate in Git-based code reviews, sprint planning, and collaborative architectural discussions.
+- Troubleshoot, debug, and optimize application performance across development and staging environments.
+
+Minimum Qualifications (Required):
+- Bachelor's degree in Computer Science, Software Engineering, or equivalent practical experience.
+- Strong foundational understanding of Python 3 and Object-Oriented Programming (OOP).
+- Demonstrated experience building RESTful APIs using Python frameworks (Flask, FastAPI, or Django).
+- Solid knowledge of relational databases (PostgreSQL or MySQL) and writing SQL queries.
+- Hands-on experience with version control using Git and GitHub.
+- Familiarity with writing automated tests using pytest or unittest.
+
+Preferred / Bonus Qualifications:
+- Experience or familiarity with containerization using Docker and Docker Compose.
+- Exposure to CI/CD workflows (e.g., GitHub Actions, GitLab CI).
+- Understanding of basic caching strategies using Redis.
+- Familiarity with cloud platforms such as Google Cloud Platform (GCP) or AWS.
+- Knowledge of asynchronous programming concepts in Python.
+
+Benefits & Perks:
+- Competitive starting salary ($75,000 - $90,000 DOE) + equity options.
+- Comprehensive health, dental, and vision insurance.
+- Annual learning & development stipend for courses and tech conferences.
+- Flexible hybrid working schedule and modern developer hardware.

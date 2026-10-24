@@ -1,0 +1,36 @@
+ALEX MORGAN
+Email: alex.morgan.dev@example.com | Phone: +1 (555) 019-2834 | Location: Austin, TX
+GitHub: github.com/alexmorgan-dev | LinkedIn: linkedin.com/in/alexmorgan-dev
+
+PROFESSIONAL SUMMARY
+Detail-oriented and passionate Junior Python Developer with 1+ years of project experience designing, developing, and deploying backend applications and RESTful APIs. Proficient in Python, Flask, relational databases (PostgreSQL, SQLite), and Git version control. Strong problem-solving background grounded in computer science fundamentals, with an eager attitude toward mastering containerization and cloud architectures.
+
+TECHNICAL SKILLS
+- Languages: Python 3 (Intermediate), SQL, JavaScript (Basics), HTML5/CSS3
+- Frameworks & Libraries: Flask, FastAPI (Familiar), SQLAlchemy, Requests, Pydantic, pytest
+- Databases & Storage: PostgreSQL, SQLite, Redis (Basics)
+- Developer Tools: Git, GitHub, VS Code, Postman, Linux / Bash command line
+- Concepts: RESTful API Design, Object-Oriented Programming (OOP), MVC Architecture, Database Schema Design
+
+PROJECTS & EXPERIENCE
+
+Backend Developer Intern | NextWave Digital Solutions (June 2024 – Dec 2024)
+- Developed and maintained RESTful API endpoints for an internal customer ticketing tool using Python and Flask.
+- Designed database schemas and wrote optimized SQL queries in PostgreSQL, reducing query latency by 18%.
+- Collaborated in an Agile sprint environment, contributing to weekly code reviews and managing branching workflows via Git and GitHub.
+- Wrote unit tests using pytest covering core authentication and data validation logic, achieving 78% code coverage.
+
+E-Commerce Inventory & Order API (Academic Capstone Project)
+- Built a modular REST API from scratch using Flask and SQLAlchemy for handling inventory, product catalogs, and order transactions.
+- Implemented JWT token-based authentication and role-based access control for admin and customer accounts.
+- Integrated Postman collections for automated endpoint testing and documented API schemas.
+- Packaged the project with modular configurations for development and testing environments.
+
+Automated Web Scraper & Price Monitor (Personal Project)
+- Engineered a Python-based automation pipeline utilizing BeautifulSoup and Requests to track price changes across e-commerce listings.
+- Stored historical pricing data in a local SQLite database and scheduled daily background monitoring tasks.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of Texas at Austin | Graduated May 2024
+Relevant Coursework: Data Structures & Algorithms, Database Systems, Software Engineering Methodologies, Computer Networks.
